@@ -1,4 +1,4 @@
-<img style="height:100%;" src="https://i.ibb.co/6Rk4g6Ns/banner.png">
+
 <h1 align="center">Hi 👋, I'm Sajid Howladar</h1>
 <h3 align="center">Full Stack Web Developer | Passionate about WordPress & Clean Design</h3>
 
