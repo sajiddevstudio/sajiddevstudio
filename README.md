@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Web Developer | Passionate about WordPress & Clean Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajiddevstudio&label=Profile%20views&color=0e75b6&style=flat" alt="sajiddevstudio" /> </p>
-
 <p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/sajidhowladar/" rel="nofollow">
     <img src="https://img.shields.io/badge/Follow%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin" 
@@ -11,7 +10,6 @@
          style="max-width: 100%;">
   </a>
 </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/sajiddevstudio)
