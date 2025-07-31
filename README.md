@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, This is Sajid Howladar</h1>
 <h3 align="center">Full Stack Web Developer | Passionate about WordPress & Clean Design</h3>
-<p align="left" dir="auto"> <a href="https://www.linkedin.com/in/sajidhowladar/"><img src="https://avatars.githubusercontent.com/u/223833298?v=4" alt="Sajid Howladar" data-canonical-src="https://www.linkedin.com/in/sajidhowladar/" style="max-width: 100%;"></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajiddevstudio&label=Profile%20views&color=0e75b6&style=flat" alt="sajiddevstudio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
